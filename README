@@ -1,5 +1,5 @@
-Basic Python Project
-====================
+chicanery
+=========
 
-A trivial python skeleton project that you can branch and begin developing on.
+A simple wrapper for the backup tool `duplicity`.
 
