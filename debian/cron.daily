@@ -1,0 +1,6 @@
+. /etc/default/chicanery
+
+if [ ! -z $RUN] && [ $RUN == "yes"] ; then
+    echo do it
+fi
+

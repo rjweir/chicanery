@@ -1,0 +1,9 @@
+# installed at /etc/default/chicanery by the maintainer scripts
+
+#
+# This is a POSIX shell fragment
+#
+
+# set this to yes to have the chicanery cron.daily script run a backup each
+# day
+RUN="no"

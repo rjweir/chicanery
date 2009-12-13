@@ -1,6 +1,7 @@
 chicanery for Debian
 --------------------
 
-<possible notes regarding this package - if none, delete this file>
+This package includes a daily backup cron job, but it will not run until RUN is
+set to 'yes' in /etc/default/chicanery.
 
  -- Rob Weir <rweir@ertius.org>  Sun, 13 Dec 2009 11:08:20 +1100
