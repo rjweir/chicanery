@@ -3,3 +3,7 @@ chicanery
 
 A simple wrapper for the backup tool `duplicity`.
 
+Currently, it can:
+
+ * generate a new GPG key to be used for backups
+
