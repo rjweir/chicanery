@@ -2,13 +2,13 @@ Source: chicanery
 Section: utils
 Priority: extra
 Maintainer: Rob Weir <rweir@ertius.org>
-Build-Depends: cdbs, debhelper (>= 7), duplicity
+Build-Depends: cdbs, debhelper (>= 7), python, python-support
 Standards-Version: 3.8.3
 Homepage: http://ertius.org/code/chicanery/
 
 Package: chicanery
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, duplicity
 Description: Simple wrapper for duplicity
  Duplicity is very flexible, but due to this flexibility can be fiddly
  to set up.  chicanery provides a set of wrapper scripts so you can
