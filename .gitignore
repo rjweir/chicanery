@@ -1,3 +1,9 @@
 *.pyc
 *.egg-info
+debian/files
+debian/*debhelper*
+debian/*substvars
+debian/pycompat
+debian/python-module-stampdir
+debian/chicanery/
 
