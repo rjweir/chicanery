@@ -4,30 +4,22 @@ This work was packaged for Debian by:
 
 It was downloaded from:
 
-    <url://example.com>
+    http://ertius.org/code/chicanery/
 
 Upstream Author(s):
 
-    <put author's name and email here>
+    Rob Weir <rweir@ertius.org>
     <likewise for another author>
 
 Copyright:
 
-    <Copyright (C) YYYY Firtname Lastname>
-    <likewise for another author>
+    Copyright (C) 2009 Rob Weir
 
 License:
 
-### SELECT: ###
     This package is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or
-    (at your option) any later version.
-### OR ###
-   This package is free software; you can redistribute it and/or modify
-   it under the terms of the GNU General Public License version 2 as
-   published by the Free Software Foundation.
-##########
+    it under the terms of the GNU General Public License version 2 as
+    published by the Free Software Foundation.
 
     This package is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -49,6 +41,3 @@ you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
 (at your option) any later version.
-
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
