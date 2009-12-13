@@ -1,13 +1,15 @@
 Source: chicanery
-Section: unknown
+Section: utils
 Priority: extra
 Maintainer: Rob Weir <rweir@ertius.org>
-Build-Depends: cdbs, debhelper (>= 7)
+Build-Depends: cdbs, debhelper (>= 7), duplicity
 Standards-Version: 3.8.3
-Homepage: <insert the upstream URL, if relevant>
+Homepage: http://ertius.org/code/chicanery/
 
 Package: chicanery
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Simple wrapper for duplicity
+ Duplicity is very flexible, but due to this flexibility can be fiddly
+ to set up.  chicanery provides a set of wrapper scripts so you can
+ have automated daily backups set up after running just one command.
