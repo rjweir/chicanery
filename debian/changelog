@@ -1,0 +1,5 @@
+chicanery (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Rob Weir <rweir@ertius.org>  Sun, 13 Dec 2009 11:08:20 +1100
