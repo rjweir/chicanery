@@ -7,3 +7,4 @@ debian/pycompat
 debian/python-module-stampdir
 debian/chicanery/
 
+/debian/pycompat
