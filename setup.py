@@ -17,7 +17,7 @@ setup(name='chicanery',
       include_package_data=True,
       zip_safe=True,
       install_requires=[
-          # -*- Extra requirements: -*-
+        'argparse',
       ],
       entry_points="""
       # -*- Entry points: -*-
