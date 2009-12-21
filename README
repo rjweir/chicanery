@@ -3,7 +3,8 @@ chicanery
 
 A simple wrapper for the backup tool `duplicity`.
 
-Currently, it can:
+Currently, it has these commands:
 
- * generate a new GPG key to be used for backups
+ * genkey - generate new GPG keys to be used for backups
+ * backup - run a backup using the configuration found in the config file
 
